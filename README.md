@@ -1,2 +1,7 @@
-# Licenses
-Sourceduty open-source software license index.
+## Licenses
+
+🪪 Sourceduty open-source software licenses.
+
+### REFERENCES
+
+[Open Source Initiative](https://opensource.org/)
