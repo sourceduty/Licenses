@@ -1,7 +1,7 @@
 > 🪪 Sourceduty open-source software licenses.
 
 #
-### Open MIT license
+### Open MIT License
 
 This license facilitates wide dissemination and use of the software while protecting the creators from legal liability. It is favored by many for its simplicity and the extensive rights it grants to end-users.
 
