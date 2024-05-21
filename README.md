@@ -1,3 +1,5 @@
+![Sourceduty](https://github.com/sourceduty/Licenses/assets/123030236/da57a710-3450-4682-a603-82a0a49ab730)
+
 > Sourceduty open-source software, information and research licenses.
 
 #
