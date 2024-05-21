@@ -1,4 +1,4 @@
-> 🪪 Sourceduty open-source software licenses.
+> Sourceduty open-source software, information and research licenses.
 
 #
 ### Open MIT License
