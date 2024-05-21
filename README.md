@@ -31,7 +31,7 @@ This notice is intended to inform that the work is protected by copyright law an
 ### Unlicensed or Free
 
 "🛈 This software is free and open-source; anyone can redistribute it and/or modify it."
-
+<br>
 "🛈 This information is free and open-source; anyone can redistribute it and/or modify it."
 
 This notice indicates that the software, research or information is licensed under terms that allow for free use, modification, and redistribution by anyone. This is a common characteristic of open-source software and information, which is typically released with a license that explicitly grants these freedoms.
