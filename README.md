@@ -43,6 +43,8 @@ This notice indicates that the software, research or information is licensed und
 
 The use of copyright on Sourceduty's custom GPTs primarily serves to document the integrity and evolution of these digital assets by displaying the last updated date whenever modifications occur. This approach, while not a major concern for enforcement, ensures transparency and professionalism, establishing a clear historical record of changes and maintaining trust with users and collaborators. Regular updates to the last modified date also highlight Sourceduty's commitment to quality and innovation, making it clear that the assets are actively maintained and refined, which is beneficial in collaborative environments and helps avoid conflicts over asset versions.
 
+The benefits of using copyright and displaying the last updated date on Sourceduty’s custom GPTs include enhanced transparency, documentation of asset evolution, and reinforcement of the company’s commitment to maintaining high-quality, up-to-date digital products. This practice can build trust with users and collaborators by clearly communicating that the assets are actively managed and refined. However, the drawbacks are minimal, with the primary concern being that regular updates might require administrative effort to track and log changes accurately, which could be seen as a distraction from more critical creative or development work. Additionally, while the copyright notice adds formality, it may not significantly deter misuse, as enforcing copyright on digital assets can be challenging and resource-intensive.
+
 #
 ### Related Links
 
