@@ -39,6 +39,11 @@ This notice is intended to inform that the work is protected by copyright law an
 This notice indicates that the software, research or information is licensed under terms that allow for free use, modification, and redistribution by anyone. This is a common characteristic of open-source software and information, which is typically released with a license that explicitly grants these freedoms.
 
 #
+### Custom GPTs
+
+The use of copyright on Sourceduty's custom GPTs primarily serves to document the integrity and evolution of these digital assets by displaying the last updated date whenever modifications occur. This approach, while not a major concern for enforcement, ensures transparency and professionalism, establishing a clear historical record of changes and maintaining trust with users and collaborators. Regular updates to the last modified date also highlight Sourceduty's commitment to quality and innovation, making it clear that the assets are actively maintained and refined, which is beneficial in collaborative environments and helps avoid conflicts over asset versions.
+
+#
 ### Related Links
 
 [Open Source Initiative](https://opensource.org/)
